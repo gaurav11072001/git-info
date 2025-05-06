@@ -1,1 +1,1 @@
-# git-bot
+# git-information 
